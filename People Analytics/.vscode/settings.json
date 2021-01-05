@@ -1,0 +1,6 @@
+{
+    "workbench.colorTheme": "Noctis Minimus",
+    "workbench.iconTheme": "vscode-icons",
+    "python.pythonPath": "C:\\Users\\Asus\\anaconda3\\envs\\tensorflow\\python.exe",
+    "jupyter.jupyterServerType": "local"
+}
