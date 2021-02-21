@@ -14,4 +14,3 @@ The evaluation metric that will be used is AUC, where the True Positive Rate val
 
 ##  Submission
 Submission of this task contains 6000 rows with 2 index columns and Best Performance, where the index will be adjusted to the index data in test.csv, and Best Performance is the prediction value in the float.
-The following is an illustration of the requested submission (an example of a submission can be seen in the sample_submission.csv file)
