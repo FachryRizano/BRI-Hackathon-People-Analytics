@@ -1,0 +1,8 @@
+Join BRI Hackathon: https://brihackathon.id/ 
+Link Materi dan slides: https://bit.ly/PA_workshop
+Link Form QnA: https://bit.ly/algo-webinar-question
+
+- PCA untuk reduksi dimensi agar bisa mendeteksi outliers
+- Downsampling / Upsamplig yang berguna untuk imbalance dataset
+- Chisquare, test statistika untuk melihat korelasi dari 2 variable
+

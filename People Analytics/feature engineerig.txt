@@ -1,0 +1,23 @@
+Test Data
+* Category Feature
+- di job_level feature ada 'JG06'-> replace dengan mode
+- di person_level tidak ada 'PG08'-> replace dengan mode
+* Numerical Features
+ * Discrete_ Features
+  - di number_of_dependences tidak ada 5 dan 7
+  - branch rotation rangenya 1-17
+  - job rotation rangenya 1-14
+
+
+TO DO:
+* Category Feature
+- untuk job_level selain JG04 dan JG05 replace rare_var
+- untuk person_level selain PG03,PG04, PG05, PG06 replace jadi rare_var
+- untuk Education_level selain level1, level_3, dan level_4 convert jad rare_var
+
+* Discrete Feature
+- untuk number_of_dependences selain 0,1,2,3 convert jadi rare_var
+- untuk branch rotation selain range (1-11) convert jadi rare_var
+- untuk job rotation selain range (2-9) convert jadi rare_Var
+- untuk annual leave selain 0-10 convert jadi rare_var
+- 
